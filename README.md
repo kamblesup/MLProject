@@ -1,1 +1,1 @@
-# MLProject
+The project aims to identify and quantify the damage caused by pesticides to crops. The focus of the analysis is to investigate the relationship between the use of pesticides and other factors on crop damage, with the aid of machine learning techniques such as Support Vector Machine, K-Nearest Neighbor, Gaussian Naive Bayes, eXtreme Gradient Boosting
